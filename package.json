@@ -106,7 +106,7 @@
     "concat-stream": "^1.5.0",
     "https-proxy-agent": "^0.3.5",
     "json-stringify-safe": "^5.0.0",
-    "readable-stream": "^1.1.13",
+    "readable-stream": "^2.2.3",
     "semver": "^5.3.0"
   },
   "bundledDependencies": [
